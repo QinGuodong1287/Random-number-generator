@@ -1,4 +1,4 @@
-Other language versions: [Chinese](README_zh-CN.md)
+Other language versions: [Chinese](README-zh_CN.md)
 # Random-number-generator
 A tool which can generate random numbers.
 > Notice: This tool has not been translated into English and other languages yet.
